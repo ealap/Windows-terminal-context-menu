@@ -3,6 +3,20 @@
         "extended": false
     },
     "profiles": {
-        
+        "{d3f31bee-5823-5ed8-8e04-f31ed54f2cd9}": {
+            "icon": "fedora.ico"
+        },
+        "{574e775e-4f2a-5b96-ac1e-a2962a402336}": {
+            "icon": "powershell-core.ico",
+            "showRunAs": true
+        },
+        "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}": {
+            "icon": "cmd.ico",
+            "showRunAs": true
+        },
+        "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}": {
+            "icon": "powershell.ico",
+            "showRunAs": true
+        }
     }
 }
